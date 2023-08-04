@@ -1,0 +1,3 @@
+As biblioteca ja estao instaladas mas caso seja necessario instale elas
+Para executar o app.js
+tem que executar no terminal npm start
